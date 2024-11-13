@@ -21,7 +21,7 @@
 
 <h2 style="margin-top: 20px">Como Rodar</h2>
 <ul>
-   <li>git clone https://github.com/isaac545454/carrinho-native</li>
+   <li>git clone https://github.com/viinDevloper/carrinho-native</li>
    <li>yarn intall(baixar o node_modules)</li> 
    <li>expo start(rodar o projeto)</li> 
 </ul>
